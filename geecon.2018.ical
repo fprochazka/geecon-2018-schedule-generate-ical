@@ -1,0 +1,1085 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:2018.geecon.cz
+BEGIN:VEVENT
+UID:5bc84f286950e
+DTSTART;TZID=Europe/Prague:20181018T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T094000
+LOCATION:Room 4
+SUMMARY:Registration & breakfast
+CLASS:PUBLIC
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869636
+DTSTART;TZID=Europe/Prague:20181018T094000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T100000
+LOCATION:Room 4
+SUMMARY:Opening ceremony (in room 9)
+CLASS:PUBLIC
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286966b
+DTSTART;TZID=Europe/Prague:20181018T100000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T110000
+LOCATION:Room 4
+SUMMARY:Michael Nygard: Uncoupling (in room 9)
+CLASS:PUBLIC
+DESCRIPTION:We overload our terms a lot in this industry. 'Coupling' is one
+  such. That word covers situations ranging from essential to accidental to
+  comical to cosmic. Coupling seems to be the root of all ills. It is the m
+ olasses that slows our every move. And yet\, in the industry from which we
+  borrowed the term\, 'coupling' was not a dirty word. It meant something i
+ ngenious. Let us contemplate coupling for a time and see what we can do ab
+ out it
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869689
+DTSTART;TZID=Europe/Prague:20181018T110000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T112000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28696a7
+DTSTART;TZID=Europe/Prague:20181018T112000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T121000
+LOCATION:Room 4
+SUMMARY:Oleh Dokuka: Refactor to Reactive with Spring 5 and Reactor 3
+CLASS:PUBLIC
+DESCRIPTION:Are you Spring 4 Framework user? Have you ever had troubles wit
+ h Reactive System? Have you ever gotten rid your whole existed codebase to
+  make the high-throughput system? Have you ever feel the pain during migra
+ tion? If yes\, I have a good news for us\, with Spring 5 and Reactor\, dev
+ elopment of Reactive System is a dream. During the talk\, we will go throu
+ gh the central concepts for refactoring of Blocking\, Non-Reactive Applica
+ tion to Reactive. We will cover techniques which will help us in the optim
+ ization of the system. In turn\, we will apply different patterns which wi
+ ll help us in achieving Reactive System step by step without rewriting the
+  whole logic from scratch. The main motivation for that talk is sharing th
+ e central refactoring steps in order to move current Spring Boot 1.x and W
+ ebMVC based application to the new Spring Boot 2 and WebFlux based one. In
+  turn\, the example of the REST Chat Application shows that the Refactorin
+ g to Reactive does not mean only changes in the programming model from imp
+ erative to reactive and the introduction of some reactive programming libr
+ aries like RxJava or Reactor 3. In general\, it means changes in the minds
+ et\, in the design and in the way the data goes through the system and emp
+ hasizing of that point is crucial for thous who decided to move their syst
+ em to reactive.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28696b6
+DTSTART;TZID=Europe/Prague:20181018T112000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T121000
+LOCATION:Room 6
+SUMMARY:Yegor Bugayenko: Expertise vs Experts
+CLASS:PUBLIC
+DESCRIPTION:Software expertise is a vital component of a software project s
+ uccess. Software products are created by people and their skills and talen
+ ts determine the result to a large extent. However\, people can't really b
+ e attached to a project forever\, they change work places and companies\, 
+ taking their knowledge with them. It's a well-known fact that subject doma
+ in experts are important and dangerous at the same time. In the presentati
+ on I will share my experience of dealing with highly qualified programmers
+  and transferring their knowledge to project artifacts. I will present a c
+ oncept of experts-free software development\, which is practiced in our di
+ stributed teams.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28696c6
+DTSTART;TZID=Europe/Prague:20181018T112000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T121000
+LOCATION:Room 9
+SUMMARY:Tomas Langer\, Dmitry Kornilov: Helidon: Java Libraries for Writing
+  Microservices
+CLASS:PUBLIC
+DESCRIPTION:Come learn about project <a href='https://helidon.io/'>Helidon<
+ /a>: a collection of Java libraries for building microservices from Oracle
+ . In this session we will provide a brief overview of Helidon including it
+ s two programming models: Microprofile for those wanting inversion of cont
+ rol and familiar Java EE APIs\, and Helidon Native for those wanting a lig
+ hweight\, functional model. We will show how to quickly create your first 
+ Helidon application and deploy it to Kubernetes.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28696d8
+DTSTART;TZID=Europe/Prague:20181018T121000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T130000
+LOCATION:Room 4
+SUMMARY:Lunch - room 7
+CLASS:PUBLIC
+DESCRIPTION:Vietnamese pork loin + grilled potatoes + salad
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28696e6
+DTSTART;TZID=Europe/Prague:20181018T121000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T130000
+LOCATION:Room 6
+SUMMARY:Lunch - room 5
+CLASS:PUBLIC
+DESCRIPTION:Chicken filet in paprika sauce + rice + salad
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28696f1
+DTSTART;TZID=Europe/Prague:20181018T121000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T130000
+LOCATION:Room 9
+SUMMARY:Lunch - room 3
+CLASS:PUBLIC
+DESCRIPTION:Vegies in delicate curry sauce on coconut milk + rice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869705
+DTSTART;TZID=Europe/Prague:20181018T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T135000
+LOCATION:Room 4
+SUMMARY:Dmitry Vinnik: Stress Driven Development\, and How to Avoid It
+CLASS:PUBLIC
+DESCRIPTION:When was the last time you took a day off? Are you going to the
+  office every weekday? How often do you work with people? All these questi
+ ons usually show one thing - we all have stress that comes from our work. 
+ Famous Work-Life balance is often non-existent in many organizations\, and
+  developers feel trapped in their daily routine to 'deliver a business val
+ ue' to their employer. With stress\, your creativity shrinks and innovativ
+ e approach dies in a busy work you do. What if I was to say it does not ha
+ ve to be that way? In this talk\, we will discuss ways how to relax and av
+ oid 'Stress Driven Development'. We will look at the problem from a perspe
+ ctive of an individual contributor\, a technical lead\, and a manager. As 
+ a result\, the audience will be able to take away best practices for tackl
+ ing stress and help others in their organizations to become more productiv
+ e and simply happier individuals.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869713
+DTSTART;TZID=Europe/Prague:20181018T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T135000
+LOCATION:Room 6
+SUMMARY:Andrea Provaglio: Leading Within
+CLASS:PUBLIC
+DESCRIPTION:In organizations\, change comes from leadership. That's not nec
+ essarily connected with status and authority and\, in fact\, leadership ca
+ n be manifested in many different ways (i.e. individual or collective) and
+  styles. Still\, the main force behind change is leadership. I've been coa
+ ching teams\, organizations\, leaders and managers along their path to agi
+ lity for years. In this talk I'd like to point out how leadership in adapt
+ ive organizations is much subtler and pervasive than what we usually think
+  and that its foundation lies in some character qualities that are frequen
+ tly overlooked or underrated. Among this qualities we can find curiosity\,
+  empathy\, courage and an attitude to listen deeply (which are in itself a
+  personal journey of self-discovery and self-awareness) and that we need t
+ o be connected with ourselves as well as with others\, before we can even 
+ start to think how to influence our environment from a leadership position
+ . Active listening is also a practice that enables system-awareness and di
+ alogue at the organizational level\, something that adaptive organizations
+  are in dire need of\, if they want to to operate in innovation and adapta
+ tion rather than recycling old paradigms over and over again. This is a cr
+ itical aspect if we want to create organizations that operate\, internally
+  and externally\, on different assumptions than post-industrial\, mechanis
+ tic organizations. Indeed\, I believe this is the main reason behind many 
+ of the failures I've witnessed in Agile adoptions -- namely\, introducing 
+ change at the superficial\, operational level\, while being unable or unaw
+ are of changing the fundamental paradigms by which people operate and inte
+ ract. In this session I'd like to explore all that\, share real-life stori
+ es and examples\, mixed with a little bit of science\, philosophy and prac
+ tical advice\, hoping that this will help organizations to better understa
+ nd and create the kind of leadership that will let them thrive in a comple
+ x\, adaptive world.\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869721
+DTSTART;TZID=Europe/Prague:20181018T130000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T135000
+LOCATION:Room 9
+SUMMARY:Miro Cupak: Pushing boundaries of types with modern Java
+CLASS:PUBLIC
+DESCRIPTION:Improved compiler’s ability to infer types of local variables
+  based on the surrounding context is undoubtedly the biggest language feat
+ ure in Java 10\, further extended in Java 11\, which affects all Java deve
+ lopers. When used correctly\, it can lead to better developer experience b
+ y reducing the ceremony associated with writing Java\, thus creating clean
+ er code. In this live-coding session\, we will explain how type inference 
+ in Java works\, and examine its limitations on more than a dozen of exampl
+ es. We push the limits of type inference by putting it in situations invol
+ ving generic and anonymous classes\, and show how the feature can not only
+  make your code more readable\, but surprisingly also change its semantics
+ . We will conclude by providing a set of best practices and guidelines for
+  using type inference in a way that creates clean code. Target audience: e
+ xpert
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869731
+DTSTART;TZID=Europe/Prague:20181018T135000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T140000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869745
+DTSTART;TZID=Europe/Prague:20181018T140000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T145000
+LOCATION:Room 4
+SUMMARY:Anton Arhipov: Kotlin DSL in under an hour
+CLASS:PUBLIC
+DESCRIPTION:The session starts with an introduction to DSL related Kotlin l
+ anguage features. Next\, we create a simple DSL in a live coding session a
+ nd then continue adding expressiveness and language features. We cover a n
+ umber of examples\, like JSON or XML builder’s\, data binding\, configur
+ ation & template engines. As a bonus\, if time permits\, we’ll take a lo
+ ok at Kotlin DSL example in TeamCity continuous integration server.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869752
+DTSTART;TZID=Europe/Prague:20181018T140000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T145000
+LOCATION:Room 6
+SUMMARY:Andrzej Grzesik: 9\, 10\, Java 11!
+CLASS:PUBLIC
+DESCRIPTION:Happy days\, Java 11 is upon us! Was it Java 10\, just moments 
+ ago? Let’s put truth to Java’s release cadence. What do you need to ac
+ cess the new versions (hint: still FREE!)\, where can you get support\, an
+ d where did JavaFX go. Finishing the picture with suggested path of migrat
+ ion. These changes are here for a reason: new features\, in the platform\,
+  more often. We will cover some of the best (subjectively)\, as well as ta
+ lk about exciting projects are coming: lambdas\, inference\, changes to G1
+ \, and who is Shenandoah.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869760
+DTSTART;TZID=Europe/Prague:20181018T140000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T145000
+LOCATION:Room 9
+SUMMARY:Peter Van de Voorde: Working Remotely: Dream vs Reality
+CLASS:PUBLIC
+DESCRIPTION:Want to have a commute of just seconds and the freedom to plan 
+ your day as you wish? Those are just 2 things you can achieve when working
+  remotely. But where there are positives there are also negatives... In th
+ is session I'll cover the lessons I learned from my 3 years of working ful
+ ly remote and how they can help you. It's a talk about freedom\, responsib
+ ility\, loneliness\, team building\, but most of all it's about building r
+ elationships. If you want to know what remote working really entails\, and
+  check if remote working is something for you\, this is the session for yo
+ u.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869771
+DTSTART;TZID=Europe/Prague:20181018T145000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T161000
+LOCATION:Room 4
+SUMMARY:Topic tables
+CLASS:PUBLIC
+DESCRIPTION:Join other attendees and share ideas\, talk about the recent ch
+ allenges\, or find solution for a problem. During this session you can con
+ nect with other like-minded people in a space designated for certain langu
+ ages\, technologies\, and interests. 1. Suggest a topic Look for large whi
+ te sheets of paper\, and tell everyone what is on your mind! You can also 
+ tweet using #topicforgeecon hashtag. Vote for topics (mark it with line/x/
+ heart) and like tweets to show others you’re interested. 2. Choose a roo
+ m and have fun We will group similar topics and assign a room. Topics will
+  be pinned before room entrance (list of topics and rooms will be also pos
+ ted using attendees slack channel - slack.geecon.cz)\, so you will be able
+  to join others also interested in eg. Kotlin\, JVM tuning\, Machine learn
+ ing or testability.\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869784
+DTSTART;TZID=Europe/Prague:20181018T161000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T170000
+LOCATION:Room 4
+SUMMARY:Nicolas Fränkel: Integration Testing from the Trenches - Rebooted
+CLASS:PUBLIC
+DESCRIPTION:Years after Kent Beck provided JUnit\, unit testing is part of 
+ most developer teams tooling. However\, there’s a trend that tends to th
+ reaten unit testing\, claiming only integration testing can truly detects 
+ defects in software. In this talk\, we will first define what unit testing
+  and integration testing are\, and their respective pros\, cons and uses. 
+ Then\, we will have a look at the unique challenges posed by integration t
+ esting. Finally\, tools and techniques will be presented to somewhat remed
+ y to that so that integration testing becomes a true asset in each softwar
+ e developer bag of tricks.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869791
+DTSTART;TZID=Europe/Prague:20181018T161000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T170000
+LOCATION:Room 6
+SUMMARY:Mark Struberg: The cool and the cruel of MicroService
+CLASS:PUBLIC
+DESCRIPTION:Over the last few years everyone has been raving about MicroSer
+ vices and how they will make any developers life so much better. Did this 
+ promise deliver? What was the reason we invented MicroService in the first
+  place? Where are the barriers and for which scenarios does it pay off to 
+ use MicroServices? And in which situations do you better resist the tempta
+ tion to always use the latest and greatest new hyped tools like MicroServi
+ ces? Let's find out! In this talk I'll also like to share some feedback fr
+ om various big real-world projects where this approach did sometimes work 
+ - and sometimes miserably failed... The target audience are managers and d
+ evelopers alike. I'll not dive into technical details except when it's nec
+ essary to understand the shortcomings of a certain design.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286979f
+DTSTART;TZID=Europe/Prague:20181018T161000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T170000
+LOCATION:Room 9
+SUMMARY:Edson Yanaga: Revisiting Effective Java in 2018
+CLASS:PUBLIC
+DESCRIPTION:Joshua Bloch just gifted us with the 3rd edition of 'Effective 
+ Java'\, but almost 10 years have been past since the last edition. Now we 
+ have a whole generation of Java developers that could benefit from this kn
+ owledge - but lost the past wave. It's about time to revisit all of this w
+ onderful content\, and upgrade your skills to the latest versions of the J
+ ava platform. Join us on this deep dive session to check what is the updat
+ ed Effective Java\, and even add some more tips not included in the book!
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28697b0
+DTSTART;TZID=Europe/Prague:20181018T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T171000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28697c3
+DTSTART;TZID=Europe/Prague:20181018T171000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T180000
+LOCATION:Room 4
+SUMMARY:Edson Yanaga: Advanced Pipelines for Hypothesis-Driven Development
+CLASS:PUBLIC
+DESCRIPTION:We automated our deployment pipelines. We do blue/green and can
+ ary deployments. Now we need the next step to reach another level of softw
+ are releases. Now we want to test our business hypothesis. Three different
+  approaches outstand in this area: smart routers\, feature toggles\, and s
+ ervice meshes. We'll have it covered. Come to this session to see lots of 
+ demos and deployments with smart routers and feature toggles to check how 
+ effective A/B testing can be achieved. You may be thinking about A/B\, but
+  after this session we'll get you from A to Z.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28697d0
+DTSTART;TZID=Europe/Prague:20181018T171000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T180000
+LOCATION:Room 6
+SUMMARY:Vladimir Dejanovic: GraphQL vs Traditional Rest API
+CLASS:PUBLIC
+DESCRIPTION:What does GraphQL and Traditional REST API have in common? Shou
+ ldn't the GraphQL be connected to some graphs or similar? What is actually
+  GraphQL all about? Join me in this talk\, while I try to answer all this 
+ questions and much more. In this talk I will explain what GraphQL is\, wha
+ t are differences and similarities compared to more traditional REST API a
+ nd show you this on working examples\, since code worth more then words on
+ ly \;)
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28697de
+DTSTART;TZID=Europe/Prague:20181018T171000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181018T180000
+LOCATION:Room 9
+SUMMARY:Grzegorz Piwowarek: The Dark Side of Java 8 - Lessons Learned
+CLASS:PUBLIC
+DESCRIPTION:Java 8 was one of the most important Java releases ever... but 
+ still wasn't free of bugs\, or just places where things could've been done
+  better. In this session\, we'll go through a quick post-mortem session an
+ d explore what went wrong with the Stream API\, Lambda Expressions\, and m
+ uch more. We'll explore various bugs and inconsistencies along with ways h
+ ow we can address them.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28697fa
+DTSTART;TZID=Europe/Prague:20181019T083000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T090000
+LOCATION:Room 4
+SUMMARY:Breakfast
+CLASS:PUBLIC
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286980f
+DTSTART;TZID=Europe/Prague:20181019T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T095000
+LOCATION:Room 4
+SUMMARY:Zbyszko Papierski: Communication patterns in carbon-based networks
+CLASS:PUBLIC
+DESCRIPTION:Let’s talk about stuff that you are probably familiar with. T
+ hread starvation. Long synchronize blocks. Unstable I/O. Cluster Leader el
+ ection issues. That’s right - they are all\, in one way or the other\, p
+ roblems with communication. The human-to-human variety. What else is a mee
+ ting than a synchronize block\, pulled over our threads of attention? Whol
+ e project failing because of one person reporting sick leave for a week - 
+ broken service\, anyone? Communication in real life has a lot in common wi
+ th communication between threads. In both cases it is difficult - and shou
+ ld be thought out. Mostly importantly\, though - there are lessons that ap
+ ply to either! Why should I care\, you might ask? Communication is not onl
+ y a domain exclusive to PMs or architects. Those endless hours of meetings
+ \, or continuous failure to decide upon a solution - it’s something that
+  drains your resources and slows you down the same way that needless synch
+ ronization slows down your code. Let’s talk about what processor design 
+ teaches us about meetings. Let’s see what developers and Java Memory Mod
+ el have in common. Let’s learn how to design a lock-free communication\,
+  without ever touching Unsafe! Be warned - people will be called resources
+  here.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286981d
+DTSTART;TZID=Europe/Prague:20181019T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T095000
+LOCATION:Room 6
+SUMMARY:Marcin Szymaniuk: Apache Spark\, Data intensive processing in pract
+ ice
+CLASS:PUBLIC
+DESCRIPTION:Would you like to see Big Data use-cases implemented on Spark? 
+ Are you working with Big Data projects already and you are considering int
+ roducing Spark to your technology stack? Would you like to know what Spark
+  is good at and what parts of Spark are tricky? First I would like to prov
+ ide an overview of multiple Spark use cases in various areas. The number o
+ f use cases described will be broad enough so it is likely that the audien
+ ce will be able to find similarities to projects they are working on and s
+ ee how they can use Spark to solve problems and bring value to the company
+ . The second part of the presentation will be focused on technical challen
+ ges which need to be solved when introducing Spark to your ecosystem. Spar
+ k has a nice and relatively intuitive API. It also promises high performan
+ ce for crunching large datasets. It’s really easy to write an app in Spa
+ rk. Unfortunately\, the nice API might be misleading and make us forget th
+ at we are implementing a distributed application. For that reason it’s e
+ asy to write one which doesn’t perform the way you would expect or just 
+ fails for no obvious reason. I will show in a nutshell all the lessons I h
+ ave learned over 3 years of experience with Spark. It will give you an ove
+ rview of what to expect and help you to avoid making mistakes typically ma
+ de by Spark newbies. We will emphasise what you should know about your dat
+ a in order to write efficient Spark jobs and what the most important confi
+ guration tweaks and optimisation techniques are which will come in handy w
+ hen implementing Spark- based solutions.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286982a
+DTSTART;TZID=Europe/Prague:20181019T090000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T095000
+LOCATION:Room 9
+SUMMARY:Ansgar Brauner: Introduce girls to programming and reduce the gende
+ r gap
+CLASS:PUBLIC
+DESCRIPTION:Science\, Technology\, Engineering and Mathematics (STEM) is wh
+ at our society needs to focus on if it wants to be competitive in the futu
+ re. But in order to succeed with that\, it also needs to let kids discover
+  the best career for them without any negative influence from gender stere
+ otypes. In the tech-industry we are missing out almost 50% of a population
+ s potential if we do not encourage girls to choose a career in tech.\nIn t
+ his session we will share the tools and projects that helped us to organiz
+ e an event we call Hackdays4Girls and which will enable you to awake your 
+ daughters (and sons) enthusiasm for technology and programming. We will le
+ t you know what you have to think of if you want to encourage not only you
+ r own kids but also other girls from within your company\, your Java User 
+ Group or your daughters school. Beside looking at block-programming and Ja
+ vascript with “Scratch” we will have a look at microcontrollers like t
+ he “BBC Micro:bit” or the “Calliope”.\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286983b
+DTSTART;TZID=Europe/Prague:20181019T095000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T101000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869871
+DTSTART;TZID=Europe/Prague:20181019T101000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T110000
+LOCATION:Room 4
+SUMMARY:Martin Osovský: Beyond thermostats: Distributed Applications livin
+ g on the Edge
+CLASS:PUBLIC
+DESCRIPTION:The next stage in Cloud Computing is the Edge Computing concept
+ \, where applications and services are moving from the cloud to run locall
+ y\, in managed environments\, close to the end users\, eliminating latency
+  and availability issues. Microsoft and Amazon are investing heavily into 
+ their Edge computing platforms: Azure IoT Edge and Amazon Greengrass. Even
+  though this may look like a high-overhead toolkit for expensive thermosta
+ ts\, it is much more. Y Soft has been delivering hybrid systems since 2008
+  and we are now embracing IoT Edge as additional platform to build and del
+ iver our applications on. IoT Edge has its advantages and disadvantages\, 
+ but it has its place in the world and for embracing it may have huge posit
+ ive impact on availability of applications. How this is done for complex s
+ ystems and what is our experience with it will be part of the talk.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286987f
+DTSTART;TZID=Europe/Prague:20181019T101000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T110000
+LOCATION:Room 6
+SUMMARY:Vladimír Oraný: Micronaut - as small as it gets
+CLASS:PUBLIC
+DESCRIPTION:Micronaut is a brand new framework designed from the ground for
+  the microservices environment. It provides compile-time dependency inject
+ ion to minimize the memory overhead known from Spring. As it was created b
+ y the Grails team\, Micronaut comes with easy to use command line interfac
+ e. Java\, Groovy and Kotlin languages are supported. Thanks to minimal sta
+ rtup time\, you can deploy new instance in less than a second and you don'
+ t need any special infrastructure for you integration tests - you just spi
+ n up an embedded server and you are ready to go. MIcronaut is a perfect fi
+ t for serverless functions such as AWS Lambda.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286988e
+DTSTART;TZID=Europe/Prague:20181019T101000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T110000
+LOCATION:Room 9
+SUMMARY:Jan Lahoda: Hacking the OpenJDK
+CLASS:PUBLIC
+DESCRIPTION:OpenJDK is a mature\, reliable\, industry standard\, time teste
+ d application platform. It has a great enthusiastic community\, and a larg
+ e but well organized code base. To develop a platform of extraordinary qua
+ lity in such a large scale setting\, there are well established practices 
+ to develop the OpenJDK. The goal of the talk is to walk you through the in
+ itial steps of obtaining\, building\, navigating\, editing\, testing and d
+ ebugging the codebase with a short overview of the practices used\, which 
+ includes the code reviews\, API review and enhancement proposals. At the e
+ nd\, you will have better understanding of how the OpenJDK development wor
+ ks\, knowing the essential tricks and tools to develop the code. http://op
+ enjdk.java.net/
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28698a0
+DTSTART;TZID=Europe/Prague:20181019T110000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T111000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28698b5
+DTSTART;TZID=Europe/Prague:20181019T111000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T120000
+LOCATION:Room 4
+SUMMARY:Mauricio Salatino: Spring Cloud\, Docker & Kubernetes - Lessons Lea
+ rned in the context of an OSS Project
+CLASS:PUBLIC
+DESCRIPTION:With Kubernetes becoming the de facto (vs. OpenShift\, EKS\, PK
+ S\, GCE\, etc.) abstraction for cloud providers\, we need to get ready and
+  step up our game to make sure that we are designing with these environmen
+ ts in mind. This presentation will cover the challenges\, lessons learned 
+ and conclusions from a Java Open Source project while adopting these techn
+ ologies. This session is not an introduction to Kubernetes\, quite the opp
+ osite\, it will highlight why Kubernetes is great\, but not a magic silver
+  bullet that will solve all your problems. You need to be ready to make so
+ me hard choices and learn fast.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28698c3
+DTSTART;TZID=Europe/Prague:20181019T111000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T120000
+LOCATION:Room 6
+SUMMARY:Thomas Sundberg: A testable architecture
+CLASS:PUBLIC
+DESCRIPTION:An application can only be tested successfully using test autom
+ ation and executable specifications if the architecture is testable.\nThe 
+ tests must be fast\, reliable\, and offer good diagnosis precision. They m
+ ust also be easy to write\, maintain\, and execute. Tests without these pr
+ operties will be abandoned after a while and the effort creating them will
+  be lost.\nYou will learn about a proven architecture style that offers te
+ stability and fast feedback in this session. We will examine an example us
+ ing well known tools to achieve the goal of working software in production
+ .\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28698d6
+DTSTART;TZID=Europe/Prague:20181019T111000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T120000
+LOCATION:Room 9
+SUMMARY:Mark West: A Practical-ish Introduction to Data Science
+CLASS:PUBLIC
+DESCRIPTION:Data Science has been described as the sexiest job of the 21st 
+ Century. But what is Data Science? And what has Machine Learning got to do
+  with all this? In this session I will share insights and knowledge that I
+  have gained from building up a Data Science department from scratch.\nThe
+  talk will be split into three sections:\n1. I’ll begin by defining what
+  Data Science is\, how it is related to Machine Learning and share some ti
+ ps for introducing Data Science to your organization.\n2. Next up we’ll 
+ run through some commonly used Machine Learning algorithms used by Data Sc
+ ientists\, along with examples for use cases where these algorithms can be
+  applied.\n3. The final third of the talk will be a demonstration of how y
+ ou can quickly get started with Data Science and Machine Learning using Py
+ thon and the Open Source scikit-learn Library.\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28698fa
+DTSTART;TZID=Europe/Prague:20181019T120000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T125000
+LOCATION:Room 4
+SUMMARY:Lunch - room 7
+CLASS:PUBLIC
+DESCRIPTION:Meat balls in tomato&basil sauce
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869909
+DTSTART;TZID=Europe/Prague:20181019T120000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T125000
+LOCATION:Room 6
+SUMMARY:Lunch - room 5
+CLASS:PUBLIC
+DESCRIPTION:Beef vindalloo gulash + wild rice + salad
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869922
+DTSTART;TZID=Europe/Prague:20181019T120000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T125000
+LOCATION:Room 9
+SUMMARY:Lunch - room 3
+CLASS:PUBLIC
+DESCRIPTION:Dumplings: russian and lentil + salad (vege)
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286993c
+DTSTART;TZID=Europe/Prague:20181019T125000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T134000
+LOCATION:Room 4
+SUMMARY:Simon Belak: Sketch algorithms
+CLASS:PUBLIC
+DESCRIPTION:In this talk we will look at how to efficiently (in both space 
+ and time) summarize large\, potentially unbounded\, streams of data by app
+ roximating the underlying distribution using so-called sketch algorithms. 
+ The main approach we are going to be looking at is summarization via histo
+ grams. Histograms have a number of desirable properties: they work well in
+  an on-line setting\, are embarrassingly parallel\, and are space-bound. N
+ ot to mention they capture the entire (empirical) distribution which is so
+ mething that otherwise often gets lost when doing descriptive statistics. 
+ Building from that we will delve into related problems of sampling in a st
+ ream setting\, and updating in a batch setting\; and highlight some cool t
+ ricks such as capturing time-dynamics via data snapshotting. To finish off
+  we will touch upon algorithms to summarize categorical data\, most notabl
+ y count-min sketch.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286994a
+DTSTART;TZID=Europe/Prague:20181019T125000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T134000
+LOCATION:Room 6
+SUMMARY:Hugh McKee: 7 Reasons why your microservices should use Event Sourc
+ ing & CQRS
+CLASS:PUBLIC
+DESCRIPTION:Event Sourcing & CQRS offers a compelling and often controversi
+ al alternative for persisting data in microservice systems environments. T
+ his alternate approach is new for most of us\, and it is justified to have
+  a healthy level of skepticism towards any shiny new and often over-hyped 
+ solution. However\, what is interesting is that this is so new that even t
+ he champions and evangelists often overlook the real benefits provided by 
+ this new way of capturing and storing data.\nIn this talk\, we will look a
+ t 7 of the top reasons for using Event Sourcing & CQRS. These reasons cove
+ red go beyond the often referenced benefits\, such as event stores are nat
+ ural audit logs\, or offering the ability to go back in history to replay 
+ past events. The primary goal of this talk is to flip your view from limit
+ ed to no use of ES & CQRS to an alternate perspective of what you give up 
+ when you elect to not use it as the go-to persistence strategy.\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869958
+DTSTART;TZID=Europe/Prague:20181019T125000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T134000
+LOCATION:Room 9
+SUMMARY:Nitsan Wakart: Allocation - Mechanics\, Profiling & Optimization
+CLASS:PUBLIC
+DESCRIPTION:One of Java's most iconic features is the Automated Memory Mana
+ gement\, better known as Garbage Collection. But how is Garbage made? and 
+ when we have too much Garbage how do we go about profiling Garbage generat
+ ion and optimizing hotspots? In this talk we will cover: - The journey of 
+ Garbage: object creation to collection - Allocation profilers: pros\, cons
+  and related confusions - Allocation elimination and reduction techniques 
+ You will leave this talk scented of lavender\, relaxed but invigorated\, a
+ nd wondering where the next cup of coffee might come from.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869969
+DTSTART;TZID=Europe/Prague:20181019T134000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T135000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286997e
+DTSTART;TZID=Europe/Prague:20181019T135000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T144000
+LOCATION:Room 4
+SUMMARY:Cyrille Martraire: DDD beyond the infamous repository pattern
+CLASS:PUBLIC
+DESCRIPTION:DDD is often misinterpreted in so many ways. Many teams focus o
+ nly on the tactical patterns\, or even consider repositories as mere glori
+ fied DAO’s and forget about all the other concepts that really matter: t
+ he focus on the business domain\, modeling in code\, and the concept of Bo
+ unded Contexts.\nIn this talk for junior and senior developers alike\, we
+ ’ll clarify the few most important building blocks of DDD. We will also 
+ illustrate how practicing DDD actually looks like. This talk is the perfec
+ t opportunity to get started on DDD on solid grounds!\n
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f286998c
+DTSTART;TZID=Europe/Prague:20181019T135000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T144000
+LOCATION:Room 6
+SUMMARY:Tomer Gabel: How shit works: Time
+CLASS:PUBLIC
+DESCRIPTION:The third talk in this series breaks the mold to take a hard lo
+ ok at one of the most commonly used\, and at least as commonly misundersto
+ od\, elements in software engineering: time. Time is so fundamental to the
+  way humans experience reality that we don't normally give it a second tho
+ ught\, but it's just as fundamental to software systems. Without a correct
+  model for working with time BAD THINGS HAPPEN: data is persisted out of o
+ rder\, exceptions occur where they shouldn't be possible\, and production 
+ systems blow up. We'll cover the various common representations of time\, 
+ acknowledge their caveats and deficiencies\, and hopefully learn a few new
+  tools and practices along the way.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869999
+DTSTART;TZID=Europe/Prague:20181019T135000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T144000
+LOCATION:Room 9
+SUMMARY:Jarosław Ratajski: Another year\, another language
+CLASS:PUBLIC
+DESCRIPTION:No matter what language and which framework You use now\, there
+  is a big chance You will have to learn something new in a next few years.
+  That is both a beauty and a curse of a coder job. But why does it work li
+ ke that? Why can’t you simply learn one good enough technology and use i
+ t till retirement. Saving more time for family and hobbies. Or maybe You c
+ an? This is a talk about evolution and history of software languages. Why 
+ don’t we write in FORTRAN anymore and who did not like ALGOL? Why functi
+ onal programming is in fact older than assembly and how our mainstream (C+
+ +\, Java and C#) looks like from a broader perspective. Does it end at all
+ ? Will there be the ultimate language\, ever?
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28699ab
+DTSTART;TZID=Europe/Prague:20181019T144000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T150000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28699bf
+DTSTART;TZID=Europe/Prague:20181019T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T155000
+LOCATION:Room 4
+SUMMARY:Andrey Adamovich: Serverless Java Journey
+CLASS:PUBLIC
+DESCRIPTION:Let me tell you a real story of running serverless Java applica
+ tions: - Maneuvering around limitations of AWS Lambda functions\, but at t
+ he same time saving a lot of money on infrastructure. - Tuning your code f
+ or fast initialization to reduce cold start times and avoid timeouts in up
+ streams integrations. - Sharing experience with different languages like p
+ lain-old-Java\, Groovy\, Kotlin as well as frameworks like Spring and Micr
+ onaut. - Going through some operational overhead of managing resources tha
+ t compose serverless environment with Terraform and Serverless.com framewo
+ rk. - Dealing with debugging and local testing of your functions. - Collec
+ ting and observing metrics and logging data.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28699cc
+DTSTART;TZID=Europe/Prague:20181019T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T155000
+LOCATION:Room 6
+SUMMARY:Martin Hochel: Ultimate React Component Patterns with TypeScript
+CLASS:PUBLIC
+DESCRIPTION:React and TypeScript\, the ultimate duo for writing web apps wi
+ th top notch developer experience. But where to start? What are the gotcha
+ s? In this live coding session we will cover all React Component patterns 
+ techniques backed by excellent DX and type safety with TypeScript
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28699da
+DTSTART;TZID=Europe/Prague:20181019T150000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T155000
+LOCATION:Room 9
+SUMMARY:Alex Soto: Live Long and Prosper To Monolith
+CLASS:PUBLIC
+DESCRIPTION:Nowadays everyone is talking about microservices and how cool t
+ hey are. That’s true\, but not all business needs to move to microservic
+ es\, you can still use monolith architecture and make it more fashion by a
+ pplying some of the design/elements that you’ve learned from microservic
+ es architecture. Can you use circuit breaker pattern\, service isolation\,
+  event-driven and non-blocking application\, cloud-native approach or zero
+  downtime deployment in monolith architecture? Is it worth? The answer is 
+ YES!!!. Come to this session to learn how to make your Java monolith appli
+ cations attractive again by borrowing some of the principles of microservi
+ ces architecture.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f28699ec
+DTSTART;TZID=Europe/Prague:20181019T155000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T160000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869a03
+DTSTART;TZID=Europe/Prague:20181019T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T165000
+LOCATION:Room 4
+SUMMARY:Bartłomiej Kuczyński: How to build flexible applications with JLu
+ pin
+CLASS:PUBLIC
+DESCRIPTION:JLupin is solution for people who would like to create nice and
+  easy JVM based applications. In one hand we have all tools that we like (
+ Spring\, JPA\, Spring Boot)\, in the other we can manage and scale our app
+ lications like simple system processes. In this presentation I will show y
+ ou how to work with JLupin\, how to create simple services and I will try 
+ to convince you to play with this tool.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869a12
+DTSTART;TZID=Europe/Prague:20181019T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T165000
+LOCATION:Room 6
+SUMMARY:Daniel Lebrero: REPL Driven Development: immediate feedback for you
+ r server side code
+CLASS:PUBLIC
+DESCRIPTION:Drinking too much coffee while maven builds and deploys your se
+ rvice? Jealous of how your FrontEnd mate just press F5 to 'deploy' his/her
+  changes? Mastered the red-green-refactor workflow and want to know what i
+ s the next step? Our Lisp grandfathers knew how invaluable was the immedia
+ te feedback that a Read-Eval-Print Loop (REPL) allowed during development 
+ and now Java 9 will have one. Perhaps you have read that a REPL is useful 
+ for 'playing around' or for 'small code snippets'\, but this is far from t
+ rue. In this presentation\, you will learn how with a REPL you can have a 
+ better and more productive developer workflow by building a Tomcat service
+ \, one bit at a time\, without having to build\, compile\, package or depl
+ oy it. Demo will be done with a Clojure REPL but no previous experience wi
+ th Clojure is needed.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869a20
+DTSTART;TZID=Europe/Prague:20181019T160000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T165000
+LOCATION:Room 9
+SUMMARY:Jaroslav Tulach: Forget Go. Go\, Java\, go!
+CLASS:PUBLIC
+DESCRIPTION:GraalVM's Substrate VM is a framework for ahead-of-time compila
+ tion of Java applications and smooth interaction with C-like data structur
+ es. It brings together the benefits of Java language with behavior of nati
+ ve programs. It offers smooth C-interop API for accessing and calling nati
+ ve OS functionality. The above combined with automatic memory management o
+ f Java objects make it a perfect fit for writing reliable\, fast startup\,
+  low memory consumption applications. Let's see how easy it is to convert 
+ your Java applications to native! Let's explore how to use such binaries i
+ n the cloud containers. Let's investigate the C-interop API. Let's find ou
+ t how to use Java where low level languages like C or Go were needed. Let'
+ s make Java a Universal language!
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869a31
+DTSTART;TZID=Europe/Prague:20181019T165000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T170000
+LOCATION:Room 4
+SUMMARY:Break
+CLASS:PUBLIC
+DESCRIPTION:The best time to take coffee or juice
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869a42
+DTSTART;TZID=Europe/Prague:20181019T170000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T171000
+LOCATION:Room 4
+SUMMARY:Closing ceremony (in room 9)
+CLASS:PUBLIC
+DTSTAMP:20181018T111520Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5bc84f2869a56
+DTSTART;TZID=Europe/Prague:20181019T171000
+SEQUENCE:0
+TRANSP:OPAQUE
+DTEND;TZID=Europe/Prague:20181019T180000
+LOCATION:Room 4
+SUMMARY:Tomer Gabel: The Folly of TDD (in room 9)
+CLASS:PUBLIC
+DESCRIPTION:Spun off of the eXtreme Programming movement\, Test Driven Deve
+ lopment has taken the software industry by storm. From a highly controvers
+ ial approach\, TDD has become a ubiquitous industry practice and the poste
+ r child of software engineering maturity. But is it all it's cracked up to
+  be? Severely misunderstood\, argued about vehemently and lacking in criti
+ cal research\, the popularity of TDD is such that it's barely challenged a
+ nymore. In this presentation we'll take a journey through the hype and int
+ o to the essence of TDD\, observing its shortcomings\, hidden costs and un
+ fortunate dogma.
+DTSTAMP:20181018T111520Z
+END:VEVENT
+END:VCALENDAR

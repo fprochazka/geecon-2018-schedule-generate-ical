@@ -1,0 +1,408 @@
+-
+  id: 434
+  title: "A Practical-ish Introduction to Data Science"
+  description: >
+               Data Science has been described as the sexiest job of the 21st Century. But what is Data Science? And what has Machine Learning got to do with all this? In this session I will share insights and knowledge that I have gained from building up a Data Science department from scratch.
+
+               The talk will be split into three sections:
+
+               1. I’ll begin by defining what Data Science is, how it is related to Machine Learning and share some tips for introducing Data Science to your organization.
+
+               2. Next up we’ll run through some commonly used Machine Learning algorithms used by Data Scientists, along with examples for use cases where these algorithms can be applied.
+
+               3. The final third of the talk will be a demonstration of how you can quickly get started with Data Science and Machine Learning using Python and the Open Source scikit-learn Library.
+  language: ""
+  speakers: [marwes]
+-
+  id: 435
+  title: "The Dark Side of Java 8 - Lessons Learned"
+  description: "Java 8 was one of the most important Java releases ever... but still wasn't free of bugs, or just places where things could've been done better. In this session, we'll go through a quick post-mortem session and explore what went wrong with the Stream API, Lambda Expressions, and much more. We'll explore various bugs and inconsistencies along with ways how we can address them."
+  language: ""
+  speakers: [grzpiw]
+-
+  id: 436
+  title: "Integration Testing from the Trenches - Rebooted"
+  description: "Years after Kent Beck provided JUnit, unit testing is part of most developer teams tooling. However, there’s a trend that tends to threaten unit testing, claiming only integration testing can truly detects defects in software. In this talk, we will first define what unit testing and integration testing are, and their respective pros, cons and uses. Then, we will have a look at the unique challenges posed by integration testing. Finally, tools and techniques will be presented to somewhat remedy to that so that integration testing becomes a true asset in each software developer bag of tricks."
+  language: ""
+  speakers: [nicfra]
+-
+  id: 437
+  title: "Pushing boundaries of types with modern Java"
+  description: "Improved compiler’s ability to infer types of local variables based on the surrounding context is undoubtedly the biggest language feature in Java 10, further extended in Java 11, which affects all Java developers. When used correctly, it can lead to better developer experience by reducing the ceremony associated with writing Java, thus creating cleaner code. In this live-coding session, we will explain how type inference in Java works, and examine its limitations on more than a dozen of examples. We push the limits of type inference by putting it in situations involving generic and anonymous classes, and show how the feature can not only make your code more readable, but surprisingly also change its semantics. We will conclude by providing a set of best practices and guidelines for using type inference in a way that creates clean code. Target audience: expert"
+  language: ""
+  speakers: [mircup]
+-
+  id: 438
+  title: "The cool and the cruel of MicroService"
+  description: "Over the last few years everyone has been raving about MicroServices and how they will make any developers life so much better. Did this promise deliver? What was the reason we invented MicroService in the first place? Where are the barriers and for which scenarios does it pay off to use MicroServices? And in which situations do you better resist the temptation to always use the latest and greatest new hyped tools like MicroServices? Let's find out! In this talk I'll also like to share some feedback from various big real-world projects where this approach did sometimes work - and sometimes miserably failed... The target audience are managers and developers alike. I'll not dive into technical details except when it's necessary to understand the shortcomings of a certain design."
+  language: ""
+  speakers: [marstr]
+-
+  id: 439
+  title: "Kotlin DSL in under an hour"
+  description: "The session starts with an introduction to DSL related Kotlin language features. Next, we create a simple DSL in a live coding session and then continue adding expressiveness and language features. We cover a number of examples, like JSON or XML builder’s, data binding, configuration & template engines. As a bonus, if time permits, we’ll take a look at Kotlin DSL example in TeamCity continuous integration server."
+  language: ""
+  speakers: [antarh]
+-
+  id: 440
+  title: "Serverless Java Journey"
+  description: "Let me tell you a real story of running serverless Java applications: - Maneuvering around limitations of AWS Lambda functions, but at the same time saving a lot of money on infrastructure. - Tuning your code for fast initialization to reduce cold start times and avoid timeouts in upstreams integrations. - Sharing experience with different languages like plain-old-Java, Groovy, Kotlin as well as frameworks like Spring and Micronaut. - Going through some operational overhead of managing resources that compose serverless environment with Terraform and Serverless.com framework. - Dealing with debugging and local testing of your functions. - Collecting and observing metrics and logging data."
+  language: ""
+  speakers: [andada]
+-
+  id: 441
+  title: "A testable architecture"
+  description: >
+               An application can only be tested successfully using test automation
+               and executable specifications if the architecture is testable.
+
+               The tests must be fast, reliable, and offer good diagnosis precision.
+               They must also be easy to write, maintain, and execute. Tests without
+               these properties will be abandoned after a while and the effort
+               creating them will be lost.
+
+               You will learn about a proven architecture style that offers
+               testability and fast feedback in this session. We will examine an
+               example using well known tools to achieve the goal of working software
+               in production.
+  language: ""
+  speakers: [thosun]
+-
+  id: 442
+  title: "Forget Go. Go, Java, go!"
+  description: "GraalVM's Substrate VM is a framework for ahead-of-time compilation of Java applications and smooth interaction with C-like data structures. It brings together the benefits of Java language with behavior of native programs. It offers smooth C-interop API for accessing and calling native OS functionality. The above combined with automatic memory management of Java objects make it a perfect fit for writing reliable, fast startup, low memory consumption applications. Let's see how easy it is to convert your Java applications to native! Let's explore how to use such binaries in the cloud containers. Let's investigate the C-interop API. Let's find out how to use Java where low level languages like C or Go were needed. Let's make Java a Universal language!"
+  language: ""
+  speakers: [jartul]
+-
+  id: 443
+  title: "Live Long and Prosper To Monolith"
+  description: "Nowadays everyone is talking about microservices and how cool they are. That’s true, but not all business needs to move to microservices, you can still use monolith architecture and make it more fashion by applying some of the design/elements that you’ve learned from microservices architecture. Can you use circuit breaker pattern, service isolation, event-driven and non-blocking application, cloud-native approach or zero downtime deployment in monolith architecture? Is it worth? The answer is YES!!!. Come to this session to learn how to make your Java monolith applications attractive again by borrowing some of the principles of microservices architecture."
+  language: ""
+  speakers: [alesot]
+-
+  id: 444
+  title: "Spring Cloud, Docker & Kubernetes - Lessons Learned in the context of an OSS Project"
+  description: "With Kubernetes becoming the de facto (vs. OpenShift, EKS, PKS, GCE, etc.) abstraction for cloud providers, we need to get ready and step up our game to make sure that we are designing with these environments in mind. This presentation will cover the challenges, lessons learned and conclusions from a Java Open Source project while adopting these technologies. This session is not an introduction to Kubernetes, quite the opposite, it will highlight why Kubernetes is great, but not a magic silver bullet that will solve all your problems. You need to be ready to make some hard choices and learn fast."
+  language: ""
+  speakers: [mausal]
+-
+  id: 445
+  title: "Allocation - Mechanics, Profiling & Optimization"
+  description: "One of Java's most iconic features is the Automated Memory Management, better known as Garbage Collection. But how is Garbage made? and when we have too much Garbage how do we go about profiling Garbage generation and optimizing hotspots? In this talk we will cover: - The journey of Garbage: object creation to collection - Allocation profilers: pros, cons and related confusions - Allocation elimination and reduction techniques You will leave this talk scented of lavender, relaxed but invigorated, and wondering where the next cup of coffee might come from."
+  language: ""
+  speakers: [nitwak]
+-
+  id: 446
+  title: "Beyond thermostats: Distributed Applications living on the Edge"
+  description: "The next stage in Cloud Computing is the Edge Computing concept, where applications and services are moving from the cloud to run locally, in managed environments, close to the end users, eliminating latency and availability issues. Microsoft and Amazon are investing heavily into their Edge computing platforms: Azure IoT Edge and Amazon Greengrass. Even though this may look like a high-overhead toolkit for expensive thermostats, it is much more. Y Soft has been delivering hybrid systems since 2008 and we are now embracing IoT Edge as additional platform to build and deliver our applications on. IoT Edge has its advantages and disadvantages, but it has its place in the world and for embracing it may have huge positive impact on availability of applications. How this is done for complex systems and what is our experience with it will be part of the talk."
+  language: ""
+  speakers: [maroso]
+-
+  id: 447
+  title: "Helidon: Java Libraries for Writing Microservices"
+  description: "Come learn about project <a href='https://helidon.io/'>Helidon</a>: a collection of Java libraries for building microservices from Oracle. In this session we will provide a brief overview of Helidon including its two programming models: Microprofile for those wanting inversion of control and familiar Java EE APIs, and Helidon Native for those wanting a lighweight, functional model. We will show how to quickly create your first Helidon application and deploy it to Kubernetes."
+  language: ""
+  speakers: [tomlan, dmikor]
+-
+  id: 448
+  title: "Hacking the OpenJDK"
+  description: "OpenJDK is a mature, reliable, industry standard, time tested application platform. It has a great enthusiastic community, and a large but well organized code base. To develop a platform of extraordinary quality in such a large scale setting, there are well established practices to develop the OpenJDK. The goal of the talk is to walk you through the initial steps of obtaining, building, navigating, editing, testing and debugging the codebase with a short overview of the practices used, which includes the code reviews, API review and enhancement proposals. At the end, you will have better understanding of how the OpenJDK development works, knowing the essential tricks and tools to develop the code. http://openjdk.java.net/"
+  language: ""
+  speakers: [janlah]
+-
+  id: 449
+  title: "Revisiting Effective Java in 2018"
+  description: "Joshua Bloch just gifted us with the 3rd edition of 'Effective Java', but almost 10 years have been past since the last edition. Now we have a whole generation of Java developers that could benefit from this knowledge - but lost the past wave. It's about time to revisit all of this wonderful content, and upgrade your skills to the latest versions of the Java platform. Join us on this deep dive session to check what is the updated Effective Java, and even add some more tips not included in the book!"
+  language: ""
+  speakers: [edsyan]
+-
+  id: 450
+  title: "Advanced Pipelines for Hypothesis-Driven Development"
+  description: "We automated our deployment pipelines. We do blue/green and canary deployments. Now we need the next step to reach another level of software releases. Now we want to test our business hypothesis. Three different approaches outstand in this area: smart routers, feature toggles, and service meshes. We'll have it covered. Come to this session to see lots of demos and deployments with smart routers and feature toggles to check how effective A/B testing can be achieved. You may be thinking about A/B, but after this session we'll get you from A to Z."
+  language: ""
+  speakers: [edsyan]
+-
+  id: 451
+  title: "Expertise vs Experts"
+  description: "Software expertise is a vital component of a software project success. Software products are created by people and their skills and talents determine the result to a large extent. However, people can't really be attached to a project forever, they change work places and companies, taking their knowledge with them. It's a well-known fact that subject domain experts are important and dangerous at the same time. In the presentation I will share my experience of dealing with highly qualified programmers and transferring their knowledge to project artifacts. I will present a concept of experts-free software development, which is practiced in our distributed teams."
+  language: ""
+  speakers: [yegbug]
+-
+  id: 452
+  title: "DDD beyond the infamous repository pattern"
+  description: >
+               DDD is often misinterpreted in so many ways. Many teams focus only on the tactical patterns, or even consider repositories as mere glorified DAO’s and forget about all the other concepts that really matter: the focus on the business domain, modeling in code, and the concept of Bounded Contexts.
+
+               In this talk for junior and senior developers alike, we’ll clarify the few most important building blocks of DDD. We will also illustrate how practicing DDD actually looks like. This talk is the perfect opportunity to get started on DDD on solid grounds!
+  language: ""
+  speakers: [cyrmar]
+-
+  id: 453
+  title: "7 Reasons why your microservices should use Event Sourcing & CQRS"
+  description: >
+               Event Sourcing & CQRS offers a compelling and often controversial alternative for persisting data in microservice systems environments. This alternate approach is new for most of us, and it is justified to have a healthy level of skepticism towards any shiny new and often over-hyped solution. However, what is interesting is that this is so new that even the champions and evangelists often overlook the real benefits provided by this new way of capturing and storing data.
+
+               In this talk, we will look at 7 of the top reasons for using Event Sourcing & CQRS. These reasons covered go beyond the often referenced benefits, such as event stores are natural audit logs, or offering the ability to go back in history to replay past events. The primary goal of this talk is to flip your view from limited to no use of ES & CQRS to an alternate perspective of what you give up when you elect to not use it as the go-to persistence strategy.
+  language: ""
+  speakers: [hugmck]
+-
+  id: 454
+  title: "Uncoupling (in room 9)"
+  description: "We overload our terms a lot in this industry. 'Coupling' is one such. That word covers situations ranging from essential to accidental to comical to cosmic. Coupling seems to be the root of all ills. It is the molasses that slows our every move. And yet, in the industry from which we borrowed the term, 'coupling' was not a dirty word. It meant something ingenious. Let us contemplate coupling for a time and see what we can do about it"
+  language: ""
+  speakers: [micnyg]
+-
+  id: 455
+  title: "How shit works: Time"
+  description: "The third talk in this series breaks the mold to take a hard look at one of the most commonly used, and at least as commonly misunderstood, elements in software engineering: time. Time is so fundamental to the way humans experience reality that we don't normally give it a second thought, but it's just as fundamental to software systems. Without a correct model for working with time BAD THINGS HAPPEN: data is persisted out of order, exceptions occur where they shouldn't be possible, and production systems blow up. We'll cover the various common representations of time, acknowledge their caveats and deficiencies, and hopefully learn a few new tools and practices along the way."
+  language: ""
+  speakers: [tomgab]
+-
+  id: 456
+  title: "Micronaut - as small as it gets"
+  description: "Micronaut is a brand new framework designed from the ground for the microservices environment. It provides compile-time dependency injection to minimize the memory overhead known from Spring. As it was created by the Grails team, Micronaut comes with easy to use command line interface. Java, Groovy and Kotlin languages are supported. Thanks to minimal startup time, you can deploy new instance in less than a second and you don't need any special infrastructure for you integration tests - you just spin up an embedded server and you are ready to go. MIcronaut is a perfect fit for serverless functions such as AWS Lambda."
+  language: ""
+  speakers: [vlaora]
+-
+  id: 457
+  title: "Working Remotely: Dream vs Reality"
+  description: "Want to have a commute of just seconds and the freedom to plan your day as you wish? Those are just 2 things you can achieve when working remotely. But where there are positives there are also negatives... In this session I'll cover the lessons I learned from my 3 years of working fully remote and how they can help you. It's a talk about freedom, responsibility, loneliness, team building, but most of all it's about building relationships. If you want to know what remote working really entails, and check if remote working is something for you, this is the session for you."
+  language: ""
+  speakers: [petvan]
+-
+  id: 458
+  title: "GraphQL vs Traditional Rest API"
+  description: "What does GraphQL and Traditional REST API have in common? Shouldn't the GraphQL be connected to some graphs or similar? What is actually GraphQL all about? Join me in this talk, while I try to answer all this questions and much more. In this talk I will explain what GraphQL is, what are differences and similarities compared to more traditional REST API and show you this on working examples, since code worth more then words only ;)"
+  language: ""
+  speakers: [vladej]
+-
+  id: 459
+  title: "Sketch algorithms"
+  description: "In this talk we will look at how to efficiently (in both space and time) summarize large, potentially unbounded, streams of data by approximating the underlying distribution using so-called sketch algorithms. The main approach we are going to be looking at is summarization via histograms. Histograms have a number of desirable properties: they work well in an on-line setting, are embarrassingly parallel, and are space-bound. Not to mention they capture the entire (empirical) distribution which is something that otherwise often gets lost when doing descriptive statistics. Building from that we will delve into related problems of sampling in a stream setting, and updating in a batch setting; and highlight some cool tricks such as capturing time-dynamics via data snapshotting. To finish off we will touch upon algorithms to summarize categorical data, most notably count-min sketch."
+  language: ""
+  speakers: [simbel]
+-
+  id: 460
+  title: "How to build flexible applications with JLupin"
+  description: "JLupin is solution for people who would like to create nice and easy JVM based applications. In one hand we have all tools that we like (Spring, JPA, Spring Boot), in the other we can manage and scale our applications like simple system processes. In this presentation I will show you how to work with JLupin, how to create simple services and I will try to convince you to play with this tool."
+  language: ""
+  speakers: [barkuc]
+-
+  id: 461
+  title: "Ultimate React Component Patterns with TypeScript"
+  description: "React and TypeScript, the ultimate duo for writing web apps with top notch developer experience. But where to start? What are the gotchas? In this live coding session we will cover all React Component patterns techniques backed by excellent DX and type safety with TypeScript"
+  language: ""
+  speakers: [marhoc]
+-
+  id: 462
+  title: "Stress Driven Development, and How to Avoid It"
+  description: "When was the last time you took a day off? Are you going to the office every weekday? How often do you work with people? All these questions usually show one thing - we all have stress that comes from our work. Famous Work-Life balance is often non-existent in many organizations, and developers feel trapped in their daily routine to 'deliver a business value' to their employer. With stress, your creativity shrinks and innovative approach dies in a busy work you do. What if I was to say it does not have to be that way? In this talk, we will discuss ways how to relax and avoid 'Stress Driven Development'. We will look at the problem from a perspective of an individual contributor, a technical lead, and a manager. As a result, the audience will be able to take away best practices for tackling stress and help others in their organizations to become more productive and simply happier individuals."
+  language: ""
+  speakers: [dmivin]
+-
+  id: 463
+  title: "Another year, another language"
+  description: "No matter what language and which framework You use now, there is a big chance You will have to learn something new in a next few years. That is both a beauty and a curse of a coder job. But why does it work like that? Why can’t you simply learn one good enough technology and use it till retirement. Saving more time for family and hobbies. Or maybe You can? This is a talk about evolution and history of software languages. Why don’t we write in FORTRAN anymore and who did not like ALGOL? Why functional programming is in fact older than assembly and how our mainstream (C++, Java and C#) looks like from a broader perspective. Does it end at all? Will there be the ultimate language, ever?"
+  language: ""
+  speakers: [jarrat]
+-
+  id: 464
+  title: "Refactor to Reactive with Spring 5 and Reactor 3"
+  description: "Are you Spring 4 Framework user? Have you ever had troubles with Reactive System? Have you ever gotten rid your whole existed codebase to make the high-throughput system? Have you ever feel the pain during migration? If yes, I have a good news for us, with Spring 5 and Reactor, development of Reactive System is a dream. During the talk, we will go through the central concepts for refactoring of Blocking, Non-Reactive Application to Reactive. We will cover techniques which will help us in the optimization of the system. In turn, we will apply different patterns which will help us in achieving Reactive System step by step without rewriting the whole logic from scratch. The main motivation for that talk is sharing the central refactoring steps in order to move current Spring Boot 1.x and WebMVC based application to the new Spring Boot 2 and WebFlux based one. In turn, the example of the REST Chat Application shows that the Refactoring to Reactive does not mean only changes in the programming model from imperative to reactive and the introduction of some reactive programming libraries like RxJava or Reactor 3. In general, it means changes in the mindset, in the design and in the way the data goes through the system and emphasizing of that point is crucial for thous who decided to move their system to reactive."
+  language: ""
+  speakers: [oledok]
+-
+  id: 465
+  title: "Communication patterns in carbon-based networks"
+  description: "Let’s talk about stuff that you are probably familiar with. Thread starvation. Long synchronize blocks. Unstable I/O. Cluster Leader election issues. That’s right - they are all, in one way or the other, problems with communication. The human-to-human variety. What else is a meeting than a synchronize block, pulled over our threads of attention? Whole project failing because of one person reporting sick leave for a week - broken service, anyone? Communication in real life has a lot in common with communication between threads. In both cases it is difficult - and should be thought out. Mostly importantly, though - there are lessons that apply to either! Why should I care, you might ask? Communication is not only a domain exclusive to PMs or architects. Those endless hours of meetings, or continuous failure to decide upon a solution - it’s something that drains your resources and slows you down the same way that needless synchronization slows down your code. Let’s talk about what processor design teaches us about meetings. Let’s see what developers and Java Memory Model have in common. Let’s learn how to design a lock-free communication, without ever touching Unsafe! Be warned - people will be called resources here."
+  language: ""
+  speakers: [zbypap]
+-
+  id: 466
+  title: "Introduce girls to programming and reduce the gender gap"
+  description: >
+              Science, Technology, Engineering and Mathematics (STEM) is what our society needs to focus on if it wants to be competitive in the future. But in order to succeed with that, it also needs to let kids discover the best career for them without any negative influence from gender stereotypes. In the tech-industry we are missing out almost 50% of a populations potential if we do not encourage girls to choose a career in tech.
+
+              In this session we will share the tools and projects that helped us to organize an event we call Hackdays4Girls and which will enable you to awake your daughters (and sons) enthusiasm for technology and programming. We will let you know what you have to think of if you want to encourage not only your own kids but also other girls from within your company, your Java User Group or your daughters school. Beside looking at block-programming and Javascript with “Scratch” we will have a look at microcontrollers like the “BBC Micro:bit” or the “Calliope”.
+  language: ""
+  speakers: [ansbra]
+-
+  id: 467
+  title: "9, 10, Java 11!"
+  description: "Happy days, Java 11 is upon us! Was it Java 10, just moments ago? Let’s put truth to Java’s release cadence. What do you need to access the new versions (hint: still FREE!), where can you get support, and where did JavaFX go. Finishing the picture with suggested path of migration. These changes are here for a reason: new features, in the platform, more often. We will cover some of the best (subjectively), as well as talk about exciting projects are coming: lambdas, inference, changes to G1, and who is Shenandoah."
+  language: ""
+  speakers: [andgrz]
+-
+  id: 468
+  title: "Leading Within"
+  description: >
+               In organizations, change comes from leadership. That's not necessarily connected with status and authority and, in fact, leadership can be manifested in many different ways (i.e. individual or collective) and styles.
+               Still, the main force behind change is leadership.
+               I've been coaching teams, organizations, leaders and managers along their path to agility for years. In this talk I'd like to point out how leadership in adaptive organizations is much subtler and pervasive than what we usually think and that its foundation lies in some character qualities that are frequently overlooked or underrated.
+               Among this qualities we can find curiosity, empathy, courage and an attitude to listen deeply (which are in itself a personal journey of self-discovery and self-awareness) and that we need to be connected with ourselves as well as with others, before we can even start to think how to influence our environment from a leadership position.
+               Active listening is also a practice that enables system-awareness and dialogue at the organizational level, something that adaptive organizations are in dire need of, if they want to to operate in innovation and adaptation rather than recycling old paradigms over and over again.
+               This is a critical aspect if we want to create organizations that operate, internally and externally, on different assumptions than post-industrial, mechanistic organizations.
+               Indeed, I believe this is the main reason behind many of the failures I've witnessed in Agile adoptions -- namely, introducing change at the superficial, operational level, while being unable or unaware of changing the fundamental paradigms by which people operate and interact.
+               In this session I'd like to explore all that, share real-life stories and examples, mixed with a little bit of science, philosophy and practical advice, hoping that this will help organizations to better understand and create the kind of leadership that will let them thrive in a complex, adaptive world.
+  language: ""
+  speakers: [andpro]
+-
+  id: 469
+  title: "Apache Spark, Data intensive processing in practice"
+  description: "Would you like to see Big Data use-cases implemented on Spark? Are you working with Big Data projects already and you are considering introducing Spark to your technology stack? Would you like to know what Spark is good at and what parts of Spark are tricky? First I would like to provide an overview of multiple Spark use cases in various areas. The number of use cases described will be broad enough so it is likely that the audience will be able to find similarities to projects they are working on and see how they can use Spark to solve problems and bring value to the company. The second part of the presentation will be focused on technical challenges which need to be solved when introducing Spark to your ecosystem. Spark has a nice and relatively intuitive API. It also promises high performance for crunching large datasets. It’s really easy to write an app in Spark. Unfortunately, the nice API might be misleading and make us forget that we are implementing a distributed application. For that reason it’s easy to write one which doesn’t perform the way you would expect or just fails for no obvious reason. I will show in a nutshell all the lessons I have learned over 3 years of experience with Spark. It will give you an overview of what to expect and help you to avoid making mistakes typically made by Spark newbies. We will emphasise what you should know about your data in order to write efficient Spark jobs and what the most important configuration tweaks and optimisation techniques are which will come in handy when implementing Spark- based solutions."
+  language: ""
+  speakers: [marszy]
+-
+  id: 470
+  title: "REPL Driven Development: immediate feedback for your server side code"
+  description: "Drinking too much coffee while maven builds and deploys your service? Jealous of how your FrontEnd mate just press F5 to 'deploy' his/her changes? Mastered the red-green-refactor workflow and want to know what is the next step? Our Lisp grandfathers knew how invaluable was the immediate feedback that a Read-Eval-Print Loop (REPL) allowed during development and now Java 9 will have one. Perhaps you have read that a REPL is useful for 'playing around' or for 'small code snippets', but this is far from true. In this presentation, you will learn how with a REPL you can have a better and more productive developer workflow by building a Tomcat service, one bit at a time, without having to build, compile, package or deploy it. Demo will be done with a Clojure REPL but no previous experience with Clojure is needed."
+  language: ""
+  speakers: [danleb]
+-
+  id: 471
+  title: "The Folly of TDD (in room 9)"
+  description: "Spun off of the eXtreme Programming movement, Test Driven Development has taken the software industry by storm. From a highly controversial approach, TDD has become a ubiquitous industry practice and the poster child of software engineering maturity. But is it all it's cracked up to be? Severely misunderstood, argued about vehemently and lacking in critical research, the popularity of TDD is such that it's barely challenged anymore. In this presentation we'll take a journey through the hype and into to the essence of TDD, observing its shortcomings, hidden costs and unfortunate dogma."
+  language: ""
+  speakers: [tomgab]
+-
+  id: 472
+  title: "Gradual migration from Java EE to MicroProfile IO"
+  description: "The goal of MicroProfile is to optimise Java EE for a micro-service architecture. It is based on some of the Java EE specifications and standardise a few technologies from the micro-services space. However, some of the microprofile implementations are completely different 'servers', like the KumuluzEE server. So how can you migrate easily from your favourite Java EE server to a MicroProfile implementation? This session shows you an overview of what MicroProfile.IO is and how it relates to Java EE. It then demonstrates with a few examples how you can adjust your Java EE application to incorporate some of the MicroProfile.IO specifications and how you can transform your Java EE application to a MicroProfile.IO one using WildFly Swarm, Liberty, Payara Micro and KumuluzEE."
+  language: ""
+  speakers: [ondmih]
+-
+  id: 475
+  title: "Developing bots during the BTC gold rush"
+  description: "During BTC frenzy days on December 2017, a funny story happened. Many people tried to promote (shill) their favorite coins. This usually worked for those with many followers. One of those people was John McAfee. When he started promoting coins, price doubled within minutes. * Intro Satirize the get rich scheme mentality of crypto and John McAfee’s personality Emphasize on how dangerous crypto market is (95% drop from all time highs for some coins) Describe the pattern that I observed and how I came up with the idea. * Implementation Create a web crawler which will scan John McAfee’s tweet for crypto symbols (presentation of Twitters API for reading tweets) Tune our crawler to make the maximum amount of calls while avoiding a 429 response from Twitter server, in order to extract the info asap. Create an automated bot for placing orders (presentation of Binance/Bittrex API trading platforms for placing orders) Search the tweeted symbol within our cached symbol pool and see if we can place an order at the exchange Optimize the program to find a good entry and exit price * What was the result? The bot worked as expected! I wasn’t the only one who implemented the idea.. Massive server delays/crashes due to extreme order volume (5-10 min timeout) * Closing notes Pet projects owe to be fun and you should not be afraid to play and experiment with all the available APIs. If you have different hobbies, try and combine them, something fun might come up! (Implementation and design took me like 12h, lost some capital but loved it!) Crypto is a risky area where big fish always eat the small ones. Please don’t ever ever involve and if so be extremely cautious. Huge price fluctuations * Additional content The application above run locally on my pc, but I could show how it could be deployed on AWS servers."
+  language: ""
+  speakers: [lavnom]
+-
+  id: 711
+  title: "Lunch - room 7"
+  description: "Vietnamese pork loin + grilled potatoes + salad"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 712
+  title: "Lunch - room 5"
+  description: "Chicken filet in paprika sauce + rice + salad"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 713
+  title: "Lunch - room 3"
+  description: "Vegies in delicate curry sauce on coconut milk + rice"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 721
+  title: "Lunch - room 7"
+  description: "Meat balls in tomato&basil sauce"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 722
+  title: "Lunch - room 5"
+  description: "Beef vindalloo gulash + wild rice + salad"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 723
+  title: "Lunch - room 3"
+  description: "Dumplings: russian and lentil + salad (vege)"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 901
+  title: "Registration & breakfast"
+  description: ""
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 902
+  title: "Breakfast"
+  description: ""
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 904
+  title: "Break"
+  description: "The best time to take coffee or juice"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 905
+  title: "Coffee Break"
+  description: "The best time to talk with speakers and attendees"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 906
+  title: "Lunch Break"
+  description: ""
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 907
+  title: "Keynote"
+  description: ""
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 908
+  title: "Opening ceremony (in room 9)"
+  description: ""
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 909
+  title: "Closing ceremony (in room 9)"
+  description: ""
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 910
+  title: "TBA"
+  description: "To Be Announced"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 911
+  title: "Lighting talk TBA"
+  description: "Lighting talk - To Be Announced"
+  presentation: ""
+  service: "true"
+  language: ""
+-
+  id: 912
+  title: "Topic tables"
+  description: >
+               Join other attendees and share ideas, talk about the recent challenges, or find solution for a problem. During this session you can connect with other like-minded people in a space designated for certain languages, technologies, and interests.
+               1. Suggest a topic
+               Look for large white sheets of paper, and tell everyone what is on your mind! You can also tweet using #topicforgeecon hashtag. Vote for topics (mark it with line/x/heart) and like tweets to show others you’re interested.
+               2. Choose a room and have fun
+               We will group similar topics and assign a room. Topics will be pinned before room entrance (list of topics and rooms will be also posted using attendees slack channel - slack.geecon.cz), so you will be able to join others also interested in eg. Kotlin, JVM tuning, Machine learning or testability.
+  presentation: ""
+  language: ""
+-
+  id: 990
+  title: "Party"
+  description: "Party time!"
+  presentation: ""
+  service: "true"
+  language: ""

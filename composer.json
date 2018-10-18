@@ -1,0 +1,6 @@
+{
+    "require": {
+        "eluceo/ical": "^0.14.0",
+        "symfony/yaml": "^4.1"
+    }
+}

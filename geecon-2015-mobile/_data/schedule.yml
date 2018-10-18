@@ -1,0 +1,59 @@
+date: "2018-10-18"
+dateReadable: "18 OCTOBER - CONFERENCE DAY 1"
+tracks:
+    - {title: "Room 4", color: "#fbb531"}
+    - {title: "Room 6", color: "#49abd0"}
+    - {title: "Room 9", color: "#fbb531"}
+timeslots:
+    -
+        startTime: "09:00"
+        endTime: "09:40"
+        sessionIds: [901]
+    -
+        startTime: "09:40"
+        endTime: "10:00"
+        sessionIds: [908]
+    -
+        startTime: "10:00"
+        endTime: "11:00"
+        sessionIds: [454]
+    -
+        startTime: "11:00"
+        endTime: "11:20"
+        sessionIds: [904]
+    -
+        startTime: "11:20"
+        endTime: "12:10"
+        sessionIds: [464, 451, 447]
+    -
+        startTime: "12:10"
+        endTime: "13:00"
+        sessionIds: [711, 712, 713]
+    -
+        startTime: "13:00"
+        endTime: "13:50"
+        sessionIds: [462, 468, 437]
+    -
+        startTime: "13:50"
+        endTime: "14:00"
+        sessionIds: [904]
+    -
+        startTime: "14:00"
+        endTime: "14:50"
+        sessionIds: [439, 467, 457]
+    -
+        startTime: "14:50"
+        endTime: "16:10"
+        sessionIds: [912]
+    -
+        startTime: "16:10"
+        endTime: "17:00"
+        sessionIds: [436, 438, 449]
+    -
+        startTime: "17:00"
+        endTime: "17:10"
+        sessionIds: [904]
+    -
+        startTime: "17:10"
+        endTime: "18:00"
+        sessionIds: [450, 458, 435]
