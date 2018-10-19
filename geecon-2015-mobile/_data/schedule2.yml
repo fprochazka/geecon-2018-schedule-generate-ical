@@ -20,7 +20,7 @@ timeslots:
     -
         startTime: "10:10"
         endTime: "11:00"
-        sessionIds: [446, 456, 448]
+        sessionIds: [446, 456, 437]
     -
         startTime: "11:00"
         endTime: "11:10"

@@ -32,7 +32,7 @@ timeslots:
     -
         startTime: "13:00"
         endTime: "13:50"
-        sessionIds: [462, 468, 437]
+        sessionIds: [462, 468, 448]
     -
         startTime: "13:50"
         endTime: "14:00"
@@ -56,4 +56,4 @@ timeslots:
     -
         startTime: "17:10"
         endTime: "18:00"
-        sessionIds: [450, 458, 435]
+        sessionIds: [450, 458, 475]

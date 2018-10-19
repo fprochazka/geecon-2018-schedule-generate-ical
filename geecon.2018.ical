@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:2018.geecon.cz
 BEGIN:VEVENT
-UID:5bc84f286950e
+UID:5bc9890af1914
 DTSTART;TZID=Europe/Prague:20181018T090000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -10,10 +10,10 @@ DTEND;TZID=Europe/Prague:20181018T094000
 LOCATION:Room 4
 SUMMARY:Registration & breakfast
 CLASS:PUBLIC
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869636
+UID:5bc9890af1a2a
 DTSTART;TZID=Europe/Prague:20181018T094000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -21,10 +21,10 @@ DTEND;TZID=Europe/Prague:20181018T100000
 LOCATION:Room 4
 SUMMARY:Opening ceremony (in room 9)
 CLASS:PUBLIC
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286966b
+UID:5bc9890af1a4c
 DTSTART;TZID=Europe/Prague:20181018T100000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -39,10 +39,10 @@ DESCRIPTION:We overload our terms a lot in this industry. 'Coupling' is one
   borrowed the term\, 'coupling' was not a dirty word. It meant something i
  ngenious. Let us contemplate coupling for a time and see what we can do ab
  out it
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869689
+UID:5bc9890af1a60
 DTSTART;TZID=Europe/Prague:20181018T110000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -51,10 +51,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28696a7
+UID:5bc9890af1a77
 DTSTART;TZID=Europe/Prague:20181018T112000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -81,10 +81,10 @@ DESCRIPTION:Are you Spring 4 Framework user? Have you ever had troubles wit
  et\, in the design and in the way the data goes through the system and emp
  hasizing of that point is crucial for thous who decided to move their syst
  em to reactive.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28696b6
+UID:5bc9890af1a87
 DTSTART;TZID=Europe/Prague:20181018T112000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -102,10 +102,10 @@ DESCRIPTION:Software expertise is a vital component of a software project s
   and transferring their knowledge to project artifacts. I will present a c
  oncept of experts-free software development\, which is practiced in our di
  stributed teams.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28696c6
+UID:5bc9890af1a98
 DTSTART;TZID=Europe/Prague:20181018T112000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -121,10 +121,10 @@ DESCRIPTION:Come learn about project <a href='https://helidon.io/'>Helidon<
  rol and familiar Java EE APIs\, and Helidon Native for those wanting a lig
  hweight\, functional model. We will show how to quickly create your first 
  Helidon application and deploy it to Kubernetes.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28696d8
+UID:5bc9890af1aac
 DTSTART;TZID=Europe/Prague:20181018T121000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -133,10 +133,10 @@ LOCATION:Room 4
 SUMMARY:Lunch - room 7
 CLASS:PUBLIC
 DESCRIPTION:Vietnamese pork loin + grilled potatoes + salad
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28696e6
+UID:5bc9890af1abd
 DTSTART;TZID=Europe/Prague:20181018T121000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -145,10 +145,10 @@ LOCATION:Room 6
 SUMMARY:Lunch - room 5
 CLASS:PUBLIC
 DESCRIPTION:Chicken filet in paprika sauce + rice + salad
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28696f1
+UID:5bc9890af1ac8
 DTSTART;TZID=Europe/Prague:20181018T121000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -157,10 +157,10 @@ LOCATION:Room 9
 SUMMARY:Lunch - room 3
 CLASS:PUBLIC
 DESCRIPTION:Vegies in delicate curry sauce on coconut milk + rice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869705
+UID:5bc9890af1adf
 DTSTART;TZID=Europe/Prague:20181018T130000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -181,10 +181,10 @@ DESCRIPTION:When was the last time you took a day off? Are you going to the
  a result\, the audience will be able to take away best practices for tackl
  ing stress and help others in their organizations to become more productiv
  e and simply happier individuals.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869713
+UID:5bc9890af1aed
 DTSTART;TZID=Europe/Prague:20181018T130000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -220,34 +220,32 @@ DESCRIPTION:In organizations\, change comes from leadership. That's not nec
  tical advice\, hoping that this will help organizations to better understa
  nd and create the kind of leadership that will let them thrive in a comple
  x\, adaptive world.\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869721
+UID:5bc9890af1afc
 DTSTART;TZID=Europe/Prague:20181018T130000
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID=Europe/Prague:20181018T135000
 LOCATION:Room 9
-SUMMARY:Miro Cupak: Pushing boundaries of types with modern Java
+SUMMARY:Jan Lahoda: Hacking the OpenJDK
 CLASS:PUBLIC
-DESCRIPTION:Improved compiler’s ability to infer types of local variables
-  based on the surrounding context is undoubtedly the biggest language feat
- ure in Java 10\, further extended in Java 11\, which affects all Java deve
- lopers. When used correctly\, it can lead to better developer experience b
- y reducing the ceremony associated with writing Java\, thus creating clean
- er code. In this live-coding session\, we will explain how type inference 
- in Java works\, and examine its limitations on more than a dozen of exampl
- es. We push the limits of type inference by putting it in situations invol
- ving generic and anonymous classes\, and show how the feature can not only
-  make your code more readable\, but surprisingly also change its semantics
- . We will conclude by providing a set of best practices and guidelines for
-  using type inference in a way that creates clean code. Target audience: e
- xpert
-DTSTAMP:20181018T111520Z
+DESCRIPTION:OpenJDK is a mature\, reliable\, industry standard\, time teste
+ d application platform. It has a great enthusiastic community\, and a larg
+ e but well organized code base. To develop a platform of extraordinary qua
+ lity in such a large scale setting\, there are well established practices 
+ to develop the OpenJDK. The goal of the talk is to walk you through the in
+ itial steps of obtaining\, building\, navigating\, editing\, testing and d
+ ebugging the codebase with a short overview of the practices used\, which 
+ includes the code reviews\, API review and enhancement proposals. At the e
+ nd\, you will have better understanding of how the OpenJDK development wor
+ ks\, knowing the essential tricks and tools to develop the code. http://op
+ enjdk.java.net/
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869731
+UID:5bc9890af1b0e
 DTSTART;TZID=Europe/Prague:20181018T135000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -256,10 +254,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869745
+UID:5bc9890af1b24
 DTSTART;TZID=Europe/Prague:20181018T140000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -273,10 +271,10 @@ DESCRIPTION:The session starts with an introduction to DSL related Kotlin l
  umber of examples\, like JSON or XML builder’s\, data binding\, configur
  ation & template engines. As a bonus\, if time permits\, we’ll take a lo
  ok at Kotlin DSL example in TeamCity continuous integration server.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869752
+UID:5bc9890af1b3a
 DTSTART;TZID=Europe/Prague:20181018T140000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -292,10 +290,10 @@ DESCRIPTION:Happy days\, Java 11 is upon us! Was it Java 10\, just moments
   more often. We will cover some of the best (subjectively)\, as well as ta
  lk about exciting projects are coming: lambdas\, inference\, changes to G1
  \, and who is Shenandoah.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869760
+UID:5bc9890af1b51
 DTSTART;TZID=Europe/Prague:20181018T140000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -312,10 +310,10 @@ DESCRIPTION:Want to have a commute of just seconds and the freedom to plan
  elationships. If you want to know what remote working really entails\, and
   check if remote working is something for you\, this is the session for yo
  u.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869771
+UID:5bc9890af1b6d
 DTSTART;TZID=Europe/Prague:20181018T145000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -335,10 +333,10 @@ DESCRIPTION:Join other attendees and share ideas\, talk about the recent ch
  ted using attendees slack channel - slack.geecon.cz)\, so you will be able
   to join others also interested in eg. Kotlin\, JVM tuning\, Machine learn
  ing or testability.\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869784
+UID:5bc9890af1b8e
 DTSTART;TZID=Europe/Prague:20181018T161000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -355,10 +353,10 @@ DESCRIPTION:Years after Kent Beck provided JUnit\, unit testing is part of
  esting. Finally\, tools and techniques will be presented to somewhat remed
  y to that so that integration testing becomes a true asset in each softwar
  e developer bag of tricks.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869791
+UID:5bc9890af1ba6
 DTSTART;TZID=Europe/Prague:20181018T161000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -377,10 +375,10 @@ DESCRIPTION:Over the last few years everyone has been raving about MicroSer
  - and sometimes miserably failed... The target audience are managers and d
  evelopers alike. I'll not dive into technical details except when it's nec
  essary to understand the shortcomings of a certain design.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286979f
+UID:5bc9890af1bbe
 DTSTART;TZID=Europe/Prague:20181018T161000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -395,10 +393,10 @@ DESCRIPTION:Joshua Bloch just gifted us with the 3rd edition of 'Effective
  onderful content\, and upgrade your skills to the latest versions of the J
  ava platform. Join us on this deep dive session to check what is the updat
  ed Effective Java\, and even add some more tips not included in the book!
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28697b0
+UID:5bc9890af1bdb
 DTSTART;TZID=Europe/Prague:20181018T170000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -407,10 +405,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28697c3
+UID:5bc9890af1bfe
 DTSTART;TZID=Europe/Prague:20181018T171000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -426,10 +424,10 @@ DESCRIPTION:We automated our deployment pipelines. We do blue/green and can
  demos and deployments with smart routers and feature toggles to check how 
  effective A/B testing can be achieved. You may be thinking about A/B\, but
   after this session we'll get you from A to Z.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093434Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28697d0
+UID:5bc9890af1c15
 DTSTART;TZID=Europe/Prague:20181018T171000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -444,27 +442,46 @@ DESCRIPTION:What does GraphQL and Traditional REST API have in common? Shou
  t are differences and similarities compared to more traditional REST API a
  nd show you this on working examples\, since code worth more then words on
  ly \;)
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28697de
+UID:5bc9890af1c2e
 DTSTART;TZID=Europe/Prague:20181018T171000
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID=Europe/Prague:20181018T180000
 LOCATION:Room 9
-SUMMARY:Grzegorz Piwowarek: The Dark Side of Java 8 - Lessons Learned
+SUMMARY:Lavkos Nomikos: Developing bots during the BTC gold rush
 CLASS:PUBLIC
-DESCRIPTION:Java 8 was one of the most important Java releases ever... but 
- still wasn't free of bugs\, or just places where things could've been done
-  better. In this session\, we'll go through a quick post-mortem session an
- d explore what went wrong with the Stream API\, Lambda Expressions\, and m
- uch more. We'll explore various bugs and inconsistencies along with ways h
- ow we can address them.
-DTSTAMP:20181018T111520Z
+DESCRIPTION:During BTC frenzy days on December 2017\, a funny story happene
+ d. Many people tried to promote (shill) their favorite coins. This usually
+  worked for those with many followers. One of those people was John McAfee
+ . When he started promoting coins\, price doubled within minutes. * Intro 
+ Satirize the get rich scheme mentality of crypto and John McAfee’s perso
+ nality Emphasize on how dangerous crypto market is (95% drop from all time
+  highs for some coins) Describe the pattern that I observed and how I came
+  up with the idea. * Implementation Create a web crawler which will scan J
+ ohn McAfee’s tweet for crypto symbols (presentation of Twitters API for 
+ reading tweets) Tune our crawler to make the maximum amount of calls while
+  avoiding a 429 response from Twitter server\, in order to extract the inf
+ o asap. Create an automated bot for placing orders (presentation of Binanc
+ e/Bittrex API trading platforms for placing orders) Search the tweeted sym
+ bol within our cached symbol pool and see if we can place an order at the 
+ exchange Optimize the program to find a good entry and exit price * What w
+ as the result? The bot worked as expected! I wasn’t the only one who imp
+ lemented the idea.. Massive server delays/crashes due to extreme order vol
+ ume (5-10 min timeout) * Closing notes Pet projects owe to be fun and you 
+ should not be afraid to play and experiment with all the available APIs. I
+ f you have different hobbies\, try and combine them\, something fun might 
+ come up! (Implementation and design took me like 12h\, lost some capital b
+ ut loved it!) Crypto is a risky area where big fish always eat the small o
+ nes. Please don’t ever ever involve and if so be extremely cautious. Hug
+ e price fluctuations * Additional content The application above run locall
+ y on my pc\, but I could show how it could be deployed on AWS servers.
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28697fa
+UID:5bc9890af1c60
 DTSTART;TZID=Europe/Prague:20181019T083000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -472,10 +489,10 @@ DTEND;TZID=Europe/Prague:20181019T090000
 LOCATION:Room 4
 SUMMARY:Breakfast
 CLASS:PUBLIC
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286980f
+UID:5bc9890af1c85
 DTSTART;TZID=Europe/Prague:20181019T090000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -501,10 +518,10 @@ DESCRIPTION:Let’s talk about stuff that you are probably familiar with. T
  el have in common. Let’s learn how to design a lock-free communication\,
   without ever touching Unsafe! Be warned - people will be called resources
   here.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286981d
+UID:5bc9890af1c9f
 DTSTART;TZID=Europe/Prague:20181019T090000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -535,10 +552,10 @@ DESCRIPTION:Would you like to see Big Data use-cases implemented on Spark?
  a in order to write efficient Spark jobs and what the most important confi
  guration tweaks and optimisation techniques are which will come in handy w
  hen implementing Spark- based solutions.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286982a
+UID:5bc9890af1cb7
 DTSTART;TZID=Europe/Prague:20181019T090000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -561,10 +578,10 @@ DESCRIPTION:Science\, Technology\, Engineering and Mathematics (STEM) is wh
  Group or your daughters school. Beside looking at block-programming and Ja
  vascript with “Scratch” we will have a look at microcontrollers like t
  he “BBC Micro:bit” or the “Calliope”.\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286983b
+UID:5bc9890af1cd7
 DTSTART;TZID=Europe/Prague:20181019T095000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -573,10 +590,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869871
+UID:5bc9890af1cfc
 DTSTART;TZID=Europe/Prague:20181019T101000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -597,10 +614,10 @@ DESCRIPTION:The next stage in Cloud Computing is the Edge Computing concept
  but it has its place in the world and for embracing it may have huge posit
  ive impact on availability of applications. How this is done for complex s
  ystems and what is our experience with it will be part of the talk.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286987f
+UID:5bc9890af1d14
 DTSTART;TZID=Europe/Prague:20181019T101000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -617,32 +634,34 @@ DESCRIPTION:Micronaut is a brand new framework designed from the ground for
  t need any special infrastructure for you integration tests - you just spi
  n up an embedded server and you are ready to go. MIcronaut is a perfect fi
  t for serverless functions such as AWS Lambda.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286988e
+UID:5bc9890af1d2d
 DTSTART;TZID=Europe/Prague:20181019T101000
 SEQUENCE:0
 TRANSP:OPAQUE
 DTEND;TZID=Europe/Prague:20181019T110000
 LOCATION:Room 9
-SUMMARY:Jan Lahoda: Hacking the OpenJDK
+SUMMARY:Miro Cupak: Pushing boundaries of types with modern Java
 CLASS:PUBLIC
-DESCRIPTION:OpenJDK is a mature\, reliable\, industry standard\, time teste
- d application platform. It has a great enthusiastic community\, and a larg
- e but well organized code base. To develop a platform of extraordinary qua
- lity in such a large scale setting\, there are well established practices 
- to develop the OpenJDK. The goal of the talk is to walk you through the in
- itial steps of obtaining\, building\, navigating\, editing\, testing and d
- ebugging the codebase with a short overview of the practices used\, which 
- includes the code reviews\, API review and enhancement proposals. At the e
- nd\, you will have better understanding of how the OpenJDK development wor
- ks\, knowing the essential tricks and tools to develop the code. http://op
- enjdk.java.net/
-DTSTAMP:20181018T111520Z
+DESCRIPTION:Improved compiler’s ability to infer types of local variables
+  based on the surrounding context is undoubtedly the biggest language feat
+ ure in Java 10\, further extended in Java 11\, which affects all Java deve
+ lopers. When used correctly\, it can lead to better developer experience b
+ y reducing the ceremony associated with writing Java\, thus creating clean
+ er code. In this live-coding session\, we will explain how type inference 
+ in Java works\, and examine its limitations on more than a dozen of exampl
+ es. We push the limits of type inference by putting it in situations invol
+ ving generic and anonymous classes\, and show how the feature can not only
+  make your code more readable\, but surprisingly also change its semantics
+ . We will conclude by providing a set of best practices and guidelines for
+  using type inference in a way that creates clean code. Target audience: e
+ xpert
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28698a0
+UID:5bc9890af1d4d
 DTSTART;TZID=Europe/Prague:20181019T110000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -651,10 +670,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28698b5
+UID:5bc9890af1d71
 DTSTART;TZID=Europe/Prague:20181019T111000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -672,10 +691,10 @@ DESCRIPTION:With Kubernetes becoming the de facto (vs. OpenShift\, EKS\, PK
  osite\, it will highlight why Kubernetes is great\, but not a magic silver
   bullet that will solve all your problems. You need to be ready to make so
  me hard choices and learn fast.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28698c3
+UID:5bc9890af1d8c
 DTSTART;TZID=Europe/Prague:20181019T111000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -692,10 +711,10 @@ DESCRIPTION:An application can only be tested successfully using test autom
  stability and fast feedback in this session. We will examine an example us
  ing well known tools to achieve the goal of working software in production
  .\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28698d6
+UID:5bc9890af1da5
 DTSTART;TZID=Europe/Prague:20181019T111000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -715,10 +734,10 @@ DESCRIPTION:Data Science has been described as the sexiest job of the 21st
   applied.\n3. The final third of the talk will be a demonstration of how y
  ou can quickly get started with Data Science and Machine Learning using Py
  thon and the Open Source scikit-learn Library.\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28698fa
+UID:5bc9890af1dc6
 DTSTART;TZID=Europe/Prague:20181019T120000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -727,10 +746,10 @@ LOCATION:Room 4
 SUMMARY:Lunch - room 7
 CLASS:PUBLIC
 DESCRIPTION:Meat balls in tomato&basil sauce
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869909
+UID:5bc9890af1dda
 DTSTART;TZID=Europe/Prague:20181019T120000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -739,10 +758,10 @@ LOCATION:Room 6
 SUMMARY:Lunch - room 5
 CLASS:PUBLIC
 DESCRIPTION:Beef vindalloo gulash + wild rice + salad
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869922
+UID:5bc9890af1dec
 DTSTART;TZID=Europe/Prague:20181019T120000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -751,10 +770,10 @@ LOCATION:Room 9
 SUMMARY:Lunch - room 3
 CLASS:PUBLIC
 DESCRIPTION:Dumplings: russian and lentil + salad (vege)
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286993c
+UID:5bc9890af1e13
 DTSTART;TZID=Europe/Prague:20181019T125000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -775,10 +794,10 @@ DESCRIPTION:In this talk we will look at how to efficiently (in both space
  ricks such as capturing time-dynamics via data snapshotting. To finish off
   we will touch upon algorithms to summarize categorical data\, most notabl
  y count-min sketch.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286994a
+UID:5bc9890af1e2e
 DTSTART;TZID=Europe/Prague:20181019T125000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -800,10 +819,10 @@ DESCRIPTION:Event Sourcing & CQRS offers a compelling and often controversi
  past events. The primary goal of this talk is to flip your view from limit
  ed to no use of ES & CQRS to an alternate perspective of what you give up 
  when you elect to not use it as the go-to persistence strategy.\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869958
+UID:5bc9890af1e46
 DTSTART;TZID=Europe/Prague:20181019T125000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -819,10 +838,10 @@ DESCRIPTION:One of Java's most iconic features is the Automated Memory Mana
   and related confusions - Allocation elimination and reduction techniques 
  You will leave this talk scented of lavender\, relaxed but invigorated\, a
  nd wondering where the next cup of coffee might come from.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869969
+UID:5bc9890af1e66
 DTSTART;TZID=Europe/Prague:20181019T134000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -831,10 +850,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286997e
+UID:5bc9890af1e89
 DTSTART;TZID=Europe/Prague:20181019T135000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -850,10 +869,10 @@ DESCRIPTION:DDD is often misinterpreted in so many ways. Many teams focus o
  ’ll clarify the few most important building blocks of DDD. We will also 
  illustrate how practicing DDD actually looks like. This talk is the perfec
  t opportunity to get started on DDD on solid grounds!\n
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f286998c
+UID:5bc9890af1ea2
 DTSTART;TZID=Europe/Prague:20181019T135000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -871,10 +890,10 @@ DESCRIPTION:The third talk in this series breaks the mold to take a hard lo
  systems blow up. We'll cover the various common representations of time\, 
  acknowledge their caveats and deficiencies\, and hopefully learn a few new
   tools and practices along the way.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869999
+UID:5bc9890af1eba
 DTSTART;TZID=Europe/Prague:20181019T135000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -892,10 +911,10 @@ DESCRIPTION:No matter what language and which framework You use now\, there
  onal programming is in fact older than assembly and how our mainstream (C+
  +\, Java and C#) looks like from a broader perspective. Does it end at all
  ? Will there be the ultimate language\, ever?
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28699ab
+UID:5bc9890af1eda
 DTSTART;TZID=Europe/Prague:20181019T144000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -904,10 +923,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28699bf
+UID:5bc9890af1eff
 DTSTART;TZID=Europe/Prague:20181019T150000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -925,10 +944,10 @@ DESCRIPTION:Let me tell you a real story of running serverless Java applica
  t compose serverless environment with Terraform and Serverless.com framewo
  rk. - Dealing with debugging and local testing of your functions. - Collec
  ting and observing metrics and logging data.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28699cc
+UID:5bc9890af1f17
 DTSTART;TZID=Europe/Prague:20181019T150000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -940,10 +959,10 @@ DESCRIPTION:React and TypeScript\, the ultimate duo for writing web apps wi
  th top notch developer experience. But where to start? What are the gotcha
  s? In this live coding session we will cover all React Component patterns 
  techniques backed by excellent DX and type safety with TypeScript
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28699da
+UID:5bc9890af1f30
 DTSTART;TZID=Europe/Prague:20181019T150000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -961,10 +980,10 @@ DESCRIPTION:Nowadays everyone is talking about microservices and how cool t
  YES!!!. Come to this session to learn how to make your Java monolith appli
  cations attractive again by borrowing some of the principles of microservi
  ces architecture.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f28699ec
+UID:5bc9890af1f50
 DTSTART;TZID=Europe/Prague:20181019T155000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -973,10 +992,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869a03
+UID:5bc9890af1f7b
 DTSTART;TZID=Europe/Prague:20181019T160000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -991,10 +1010,10 @@ DESCRIPTION:JLupin is solution for people who would like to create nice and
  lications like simple system processes. In this presentation I will show y
  ou how to work with JLupin\, how to create simple services and I will try 
  to convince you to play with this tool.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869a12
+UID:5bc9890af1f95
 DTSTART;TZID=Europe/Prague:20181019T160000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -1015,10 +1034,10 @@ DESCRIPTION:Drinking too much coffee while maven builds and deploys your se
  \, one bit at a time\, without having to build\, compile\, package or depl
  oy it. Demo will be done with a Clojure REPL but no previous experience wi
  th Clojure is needed.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869a20
+UID:5bc9890af1fac
 DTSTART;TZID=Europe/Prague:20181019T160000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -1037,10 +1056,10 @@ DESCRIPTION:GraalVM's Substrate VM is a framework for ahead-of-time compila
  n the cloud containers. Let's investigate the C-interop API. Let's find ou
  t how to use Java where low level languages like C or Go were needed. Let'
  s make Java a Universal language!
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869a31
+UID:5bc9890af1fcb
 DTSTART;TZID=Europe/Prague:20181019T165000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -1049,10 +1068,10 @@ LOCATION:Room 4
 SUMMARY:Break
 CLASS:PUBLIC
 DESCRIPTION:The best time to take coffee or juice
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869a42
+UID:5bc9890af1fe7
 DTSTART;TZID=Europe/Prague:20181019T170000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -1060,10 +1079,10 @@ DTEND;TZID=Europe/Prague:20181019T171000
 LOCATION:Room 4
 SUMMARY:Closing ceremony (in room 9)
 CLASS:PUBLIC
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 BEGIN:VEVENT
-UID:5bc84f2869a56
+UID:5bc9890af200c
 DTSTART;TZID=Europe/Prague:20181019T171000
 SEQUENCE:0
 TRANSP:OPAQUE
@@ -1080,6 +1099,6 @@ DESCRIPTION:Spun off of the eXtreme Programming movement\, Test Driven Deve
  nymore. In this presentation we'll take a journey through the hype and int
  o to the essence of TDD\, observing its shortcomings\, hidden costs and un
  fortunate dogma.
-DTSTAMP:20181018T111520Z
+DTSTAMP:20181019T093435Z
 END:VEVENT
 END:VCALENDAR
